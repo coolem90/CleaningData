@@ -37,7 +37,7 @@ method           | Feature: statistic method(mean/std)
 axis             | Feature: 3-axial signals in the X, Y and Z directions 
 count            | Count of data points per each activity and each subject
 average          | Average of values per each activity and each subject
------------------|------------
+
 
 
 The Specification of Value Level
@@ -56,6 +56,6 @@ method           | String     | mean and std
 axis             | String     | X, Y, Z and NA 
 count            | Integer    | Count of data points per each activity and each subject
 average          | Number     | Average of values per each activity and each subject
------------------|--------------------
+
 or 
 >str(dataset) in the R
