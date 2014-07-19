@@ -1,7 +1,7 @@
 CleanningData
 =============
 <h2> Project for Getting and Cleaning Data</h2><br>
-<h3>run_analysis</h3><br>
+<h3>Run Analysis</h3><br>
 The setps of getting dataset<br>
 <ul>
   <li> Open the run_analysis.r </li>
