@@ -16,4 +16,5 @@ CodeBook.md
 A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
 
 <h3>Output</h3><br>
-dataset.txt
+dataset.txt-A tidy dataset and average of values per each an activity and subject
+
